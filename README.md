@@ -18,7 +18,7 @@
 
 
 - 📫 How to reach me **lakinduchethana2@gmail.com**
-
+- 🌱 I’m currently learning **Computer Science /Statistics/Mathematics**
 - ⚡ Fun fact **Lucky 😁**
 
 
