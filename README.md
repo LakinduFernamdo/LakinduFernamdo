@@ -31,18 +31,21 @@
 
 
 ## GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center">
   
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/LakinduFernamdo">
     <img height="180em" src="https://streak-stats.demolab.com?user=LakinduFernamdo&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
-  
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/LakinduFernamdo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LakinduFernamdo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true"/>
   </a>
 
+  <!-- Top Languages -->
   <a href="https://github.com/LakinduFernamdo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
   </a>
 
 </div>
