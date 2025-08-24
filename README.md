@@ -48,7 +48,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
   </a>
 
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 </div>
 
