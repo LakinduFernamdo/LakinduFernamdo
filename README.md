@@ -6,15 +6,18 @@
   <p > <img src="https://komarev.com/ghpvc/?username=lakindufernamdo&label=Profile%20views&color=0e75b6&style=flat" alt="lakindufernando" />
 </div>
 
-<h3 align="center">Undergraduate Student at University of Sri Jayewardenepura | Full-Stack Web Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">🎓 Undergraduate Student at USJ | 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Web Developer | 🕸️ Networking Ninja | ☁️ Cloud Computing Explorer</h3>
+
 <!-- Dynamic letter Part -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=800&color=%23FFD700&size=26&center=true&vCenter=true&width=650&height=100&lines=%3E+Computer+Science+Student;>+Cybersecurity+Enthusiast;>+LeetCode+%26+TryHackMe+Competitor;>+Cloud+Computing+Explorer;>+Networking+Ninja;>+Ethical+Hacking+Learner;>+Malware+Analysis+Apprentice;>+Always+Growing+%26+Improving">
-</a>
+<!-- Terminal-style typing badge for README.md -->
+<div align="center" style="background:#0b0b0b; padding:18px; border-radius:8px; display:inline-block; box-shadow: 0 6px 18px rgba(0,0,0,0.6);">
+  <img
+    alt="typing"
+    src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=800&color=%2300FF00&size=26&center=true&vCenter=true&width=650&height=100&lines=%3E+Computer+Science+Student;>+Cybersecurity+Enthusiast;>+LeetCode+%26+TryHackMe+Competitor;>+Cloud+Computing+Explorer;>+Networking+Ninja;>+Ethical+Hacking+Learner;>+Malware+Analysis+Apprentice;>+Always+Growing+%26+Improving"
+    style="display:block;"
+  />
+</div>
 
-
-</p>
 
 
 
@@ -24,7 +27,7 @@
 
 
 - 📫 How to reach me **lakinduchethana2@gmail.com**
-- 🌱 I’m currently learning **Computer Science /Statistics/Mathematics**
+- 🌱 I’m currently learning **Computer Science /Statistics/Mathematics at University of Sri Jayewardenepura**
 - ⚡ Fun fact **Lucky 😁**
 
 
@@ -60,10 +63,44 @@
 
 </div>
 
+<!--Project Section-->
+<div align="left">
+
 <!-- Right Side GIF -->
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
+
+## 🚀 Ongoing & Completed Projects
+
+### 🔥 Currently Building — MrRoot (Chrome Extension)
+🗺️ A smart navigation assistant built as a Chrome extension.  
+📌 Utilizes **React-Leaflet** for interactive map visualization.  
+🧠 Implements **Dijkstra’s Algorithm** to compute the shortest path.  
+⚙️ Powered by a **Spring Boot** backend for route computation and APIs.
+
+---
+
+### ♻️ Circlix — Microservices Social Media Platform
+📱 Social platform promoting the **resale & reuse of goods**.  
+🧩 Built with a **microservices architecture** using Spring Boot.  
+🔐 Secured with **JWT authentication** & **Zero Trust principles**.  
+💾 Responsible for the **complete backend development**.
+
+---
+
+### 🩺 EasyDoc — E-Channelling Healthcare System
+💉 Healthcare appointment & doctor scheduling platform.  
+⚛️ Developed using **React** (frontend) & **Express.js** (backend).  
+🐘 **PostgreSQL** used as the primary database.  
+💳 Integrated **Stripe** for secure online payments.
+
+---
+</div>
+  
+
+
+
 
 
 </div>
