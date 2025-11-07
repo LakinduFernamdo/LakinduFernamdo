@@ -7,8 +7,14 @@
 </div>
 
 <h3 align="center">Undergraduate Student at University of Sri Jayewardenepura | Full-Stack Web Developer | Cybersecurity Enthusiast</h3>
+<!-- Dynamic letter Part -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&duration=3000&pause=800&color=%23FFD700&size=26&center=true&vCenter=true&width=650&height=100&lines=%3E+Computer+Science+Student;>+Cybersecurity+Enthusiast;>+LeetCode+%26+TryHackMe+Competitor;>+Cloud+Computing+Explorer;>+Networking+Ninja;>+Ethical+Hacking+Learner;>+Malware+Analysis+Apprentice;>+Always+Growing+%26+Improving">
+</a>
 
 
+</p>
 
 
 
@@ -31,23 +37,33 @@
 
 
 ## GitHub Stats
+
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
+
+ <!-- GitHub Streak Stats -->
+<a href="https://github.com/LakinduFernamdo">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LakinduFernamdo&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"/>
+</a>
+
+
+ <!-- GitHub Stats -->
+<div align="center">
+
   <a href="https://github.com/LakinduFernamdo">
-    <img height="180em" src="https://streak-stats.demolab.com?user=LakinduFernamdo&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakinduFernamdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/LakinduFernamdo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LakinduFernamdo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true"/>
-  </a>
-
-  <!-- Top Languages -->
   <a href="https://github.com/LakinduFernamdo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
   </a>
 
+</div>
+
+<!-- Right Side GIF -->
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
 
 </div>
