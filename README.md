@@ -73,7 +73,7 @@
 
 ## 🚀 Ongoing & Completed Projects
 
-### 🔥 Currently Building — MrRoot (Chrome Extension)
+###  📍MrRoot (Chrome Extension)
 🗺️ A smart navigation assistant built as a Chrome extension.  
 📌 Utilizes **React-Leaflet** for interactive map visualization.  
 🧠 Implements **Dijkstra’s Algorithm** to compute the shortest path.  
