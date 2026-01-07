@@ -71,7 +71,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-## 🚀 Ongoing & Completed Projects
+## 🚀 Completed Projects
 
 ###  📍MrRoot (Chrome Extension)
 🗺️ A smart navigation assistant built as a Chrome extension.  
