@@ -44,10 +44,11 @@
 <div align="center">
   
 
- <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats -->
 <a href="https://github.com/LakinduFernamdo">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LakinduFernamdo&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LakinduFernamdo&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=3600"/>
 </a>
+
 
 
  <!-- GitHub Stats -->
@@ -57,9 +58,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LakinduFernamdo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
-  <a href="https://github.com/LakinduFernamdo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
-  </a>
+ <!-- Top Languages -->
+<a href="https://github.com/LakinduFernamdo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakinduFernamdo&layout=compact&langs_count=10&card_width=320&hide_border=true&theme=tokyonight&hide=jupyter%20notebook"/>
+</a>
+
 
 </div>
 
